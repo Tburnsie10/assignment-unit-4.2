@@ -1,0 +1,28 @@
+header {
+    background-color: grey;
+}
+
+h2 {
+    font-size: 26px;
+    background-color: tan;
+    color: green;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+h3 {
+    font-size: 26px;
+    background-color: tan;
+    color: green;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
